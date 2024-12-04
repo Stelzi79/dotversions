@@ -1,2 +1,2 @@
 # dotversions
-small program for managing versions of stuff and things
+Small shell utility for managing versions of stuff and things
